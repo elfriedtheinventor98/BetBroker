@@ -4,7 +4,7 @@ import numpy as np
 from scipy.stats import poisson
 
 # === Configuration API ===
-API_KEY = "votre_cle_api"
+API_KEY = "21638c87197a408db1ec6819268bd9c3"
 BASE_URL = "https://api.football-data.org/v4/"
 
 # === Recherche d’équipe ===
